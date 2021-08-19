@@ -18,7 +18,7 @@ function escolhaPasso1(personagem) {
     }
 
     if (passo1 == 1) {
-        alert("Legal! Vamos para o próximo passo!");
+
     } else {
         retorno = false;
     }
