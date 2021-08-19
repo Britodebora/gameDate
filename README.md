@@ -21,7 +21,8 @@ alguns poucos resultem em um final de sucesso.
 <li>Cada etapa/fase deve ser implementada em um arquivo diferente
 <li>Funções devem ser criadas e utilizadas para uma maior e melhor legibilidade do código
 <li>O projeto desenvolvido deve ser fornecido em repositório no Github
-<ul>
+</ul>
+
 <h2>Dicas:</h2>
 
 <ul>
@@ -29,4 +30,4 @@ alguns poucos resultem em um final de sucesso.
 <li>Utilize CSS para tornar suas páginas mais interessantes
 <li>Estruture a narrativa do seu jogo antes de iniciar a implementação
 <li>Encare um desafio de cada vez!
-<ul>
+</ul>
